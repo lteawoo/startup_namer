@@ -1,6 +1,6 @@
 # startup_namer
 
-startup_namer
+startup_namer 튜토리얼 따라하기! -  https://lteawoo.tistory.com/3
 
 ## Getting Started
 
